@@ -33,6 +33,44 @@
 
 ---
 
+## Benefits Section
+
+**Section Label:** Benefits
+
+**Headline:** Grow with healthcare support shaped by trust & care
+
+**Layout:** 2x2 grid of benefit cards + 1 CTA card on the right
+
+### Benefit Cards
+
+#### 1. Compassionate Patient Care
+- **Icon:** Heart/Medical care icon (teal)
+- **Title:** Compassionate Patient Care
+- **Description:** Personalized healthcare delivered with empathy, respect, and clinical excellence.
+
+#### 2. Advanced Medical Technology
+- **Icon:** Medical technology icon (teal)
+- **Title:** Advanced Medical Technology
+- **Description:** Modern diagnostics and treatments guided by experienced medical specialists.
+
+#### 3. Trusted Medical Specialists
+- **Icon:** Medical cross/plus icon (teal)
+- **Title:** Trusted Medical Specialists
+- **Description:** Board-certified physicians focused on pulmonary, internal, and critical care.
+
+#### 4. Continuous Care & Follow-Up
+- **Icon:** Chart/trend icon (teal)
+- **Title:** Continuous Care & Follow-Up
+- **Description:** Smooth coordination, follow-up care, and ongoing patient support at every step.
+
+### CTA Card (Right Side - Teal Background)
+- **Headline:** Ready for Better Breathing & Care?
+- **Subtext:** Schedule your consultation with trusted pulmonary and internal medicine experts.
+- **Visual:** Image of doctor with stethoscope on phone screen (representing telemedicine/accessibility)
+- **CTA Button:** Arrow icon → links to contact/appointment page
+
+---
+
 ## Conditions We Treat (Icon Grid)
 
 Display as clickable cards with icons:
