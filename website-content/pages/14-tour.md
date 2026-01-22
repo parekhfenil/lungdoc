@@ -93,19 +93,19 @@ We are committed to making our facilities accessible to all patients:
 
 ---
 
-## Office Hours
+## Office Hours (Corona)
 
 | Day | Hours |
 |-----|-------|
-| Monday | [Hours TBD] |
-| Tuesday | [Hours TBD] |
-| Wednesday | [Hours TBD] |
-| Thursday | [Hours TBD] |
-| Friday | [Hours TBD] |
+| Monday | 9:00 AM – 4:00 PM |
+| Tuesday | 9:00 AM – 4:00 PM |
+| Wednesday | 9:00 AM – 4:00 PM |
+| Thursday | 9:00 AM – 4:00 PM |
+| Friday | 9:00 AM – 4:00 PM |
 | Saturday | Closed |
 | Sunday | Closed |
 
-*Hours may vary by location. Please call to confirm.*
+*By Appointment Only*
 
 ---
 

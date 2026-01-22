@@ -28,7 +28,26 @@
 - Date published
 - Estimated read time
 
-[Featured Article Cards Placeholder]
+### 1. 5 Warning Signs Your Asthma Isn't Under Control
+- **Image:** [Person using inhaler outdoors]
+- **Summary:** Are you using your rescue inhaler more than twice a week? Waking up coughing? These are signs your asthma management plan needs an adjustment. Learn the 5 red flags you shouldn't ignore.
+- **Author:** By Dr. Anoop Maheshwari, M.D.
+- **Read Time:** 4 min read
+- **Link:** `Read Article →`
+
+### 2. Is Snoring Dangerous? When to Get a Sleep Study
+- **Image:** [Person sleeping]
+- **Summary:** Snoring isn't just annoying for your partner—it could be a sign of Obstructive Sleep Apnea (OSA). Discover how untreated sleep apnea affects your heart health and when it's time for a sleep study.
+- **Author:** By Dr. Anoop Maheshwari, M.D.
+- **Read Time:** 5 min read
+- **Link:** `Read Article →`
+
+### 3. What to Expect During Pulmonary Function Testing
+- **Image:** [PFT Equipment in office]
+- **Summary:** Nervous about your upcoming lung function test? Don't be. This guide walks you through exactly what happens during a PFT, how to prepare, and what your results mean for your treatment.
+- **Author:** By Dr. Anoop Maheshwari, M.D.
+- **Read Time:** 3 min read
+- **Link:** `Read Article →`
 
 ---
 

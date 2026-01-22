@@ -69,7 +69,7 @@ The patient-doctor relationship is sacred, and we respect the trust you place in
 
 Serving: Corona, Norco, Eastvale, Jurupa Valley, Riverside
 
-[Google Map Embed Placeholder]
+<iframe width="100%" height="450" style="border:0;" loading="lazy" allowfullscreen src="https://www.google.com/maps?q=1157+W+Grand+Blvd,+Corona,+CA+92882&output=embed"></iframe>
 
 ---
 
@@ -78,7 +78,7 @@ Serving: Corona, Norco, Eastvale, Jurupa Valley, Riverside
 
 Serving: Lake Elsinore, Canyon Lake, Wildomar, Menifee, Murrieta, Temecula
 
-[Google Map Embed Placeholder]
+<iframe width="100%" height="450" style="border:0;" loading="lazy" allowfullscreen src="https://www.google.com/maps?q=31571+Canyon+Estates+Dr+%23219,+Lake+Elsinore,+CA+92532&output=embed"></iframe>
 
 ---
 

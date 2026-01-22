@@ -37,7 +37,7 @@
 
 📍 **1157 W Grand Blvd, Corona, CA 92882**
 
-[Google Map Embed - Full width]
+<iframe width="100%" height="450" style="border:0;" loading="lazy" allowfullscreen src="https://www.google.com/maps?q=1157+W+Grand+Blvd,+Corona,+CA+92882&output=embed"></iframe>
 
 **Get Directions:**
 - From the 91 Freeway: [Directions]
@@ -53,7 +53,7 @@
 
 📍 **31571 Canyon Estates Dr #219, Lake Elsinore, CA 92532**
 
-[Google Map Embed - Full width]
+<iframe width="100%" height="450" style="border:0;" loading="lazy" allowfullscreen src="https://www.google.com/maps?q=31571+Canyon+Estates+Dr+%23219,+Lake+Elsinore,+CA+92532&output=embed"></iframe>
 
 **Get Directions:**
 - From the 15 Freeway: [Directions]
@@ -65,19 +65,22 @@
 
 ---
 
-## Office Hours (Both Locations)
+## Office Hours (Corona)
 
 | Day | Hours |
 |-----|-------|
-| Monday | [Hours TBD] |
-| Tuesday | [Hours TBD] |
-| Wednesday | [Hours TBD] |
-| Thursday | [Hours TBD] |
-| Friday | [Hours TBD] |
+| Monday | 9:00 AM – 4:00 PM |
+| Tuesday | 9:00 AM – 4:00 PM |
+| Wednesday | 9:00 AM – 4:00 PM |
+| Thursday | 9:00 AM – 4:00 PM |
+| Friday | 9:00 AM – 4:00 PM |
 | Saturday | Closed |
 | Sunday | Closed |
 
-*Please call to confirm hours as they may vary.*
+*By Appointment Only*
+
+## Office Hours (Lake Elsinore)
+*Please call (951) 737-5809 to confirm Lake Elsinore hours.*
 
 ---
 

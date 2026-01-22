@@ -36,8 +36,9 @@ Dr. Anoop Maheshwari and Dr. Young H. Lee are board-certified pulmonologists wit
 [Google Map Embed]
 
 ### Office Hours
-Monday - Friday: [Hours TBD]
+Monday - Friday: 9:00 AM – 4:00 PM
 Saturday & Sunday: Closed
+*By Appointment Only*
 
 ### Easy Access
 - Conveniently located on W Grand Blvd
