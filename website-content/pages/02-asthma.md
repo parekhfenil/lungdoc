@@ -16,6 +16,8 @@
 
 **CTA:** 📱 Text Us: 951-287-5282 | 📞 Call: (951) 737-5809
 
+![Asthma Featured Image](../assets/images/asthma_featured.png)
+
 ---
 
 ## What is Asthma?

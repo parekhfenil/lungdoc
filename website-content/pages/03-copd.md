@@ -16,6 +16,8 @@
 
 **CTA:** 📱 Text Us: 951-287-5282 | 📞 Call: (951) 737-5809
 
+![COPD Featured Image](../assets/images/copd_featured.png)
+
 ---
 
 ## What is COPD?

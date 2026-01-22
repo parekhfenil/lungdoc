@@ -16,6 +16,8 @@
 
 **CTA:** 📱 Text Us: 951-287-5282 | 📞 Call: (951) 737-5809
 
+![Sleep Apnea Featured Image](../assets/images/sleep_apnea_featured.png)
+
 ---
 
 ## What is Sleep Apnea?

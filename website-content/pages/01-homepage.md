@@ -19,6 +19,7 @@
 - Secondary: 📞 Call: (951) 737-5809
 
 **Background:** Professional medical imagery or video of lungs/breathing
+![Homepage Hero](../assets/images/homepage_hero.png)
 
 ---
 

@@ -16,6 +16,8 @@
 
 **CTA:** 📱 Text Us: 951-287-5282 | 📞 Call: (951) 737-5809
 
+![Lung Cancer Screening Featured Image](../assets/images/lung_cancer_screening_featured.png)
+
 ---
 
 ## Why Lung Cancer Screening Matters
